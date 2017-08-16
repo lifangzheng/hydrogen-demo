@@ -1,3 +1,5 @@
+为原版demo增加注释，修改一些bug，完善了一些流程，尝试着替换了一些方法，等等。
+
 # 知晓云微信小程序 Demo
 
 我们在这里准备了三个使用[知晓云](https://cloud.minapp.com) BaaS JS SDK 开发的微信小程序 Demo。  
